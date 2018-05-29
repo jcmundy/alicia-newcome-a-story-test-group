@@ -1,1 +1,15 @@
---- {}
+---
+map:
+  name: map
+nebraska:
+  name: Nebraska
+cabins:
+  name: cabins
+definition:
+  name: definition
+image:
+  name: image
+page:
+  name: page
+artkwork:
+  name: artkwork
